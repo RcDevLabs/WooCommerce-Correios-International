@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Correios International
-Plugin URI: http://github.com
-Description: Custom Made International Shipping Plugin to Dreamscustom
+Plugin URI: https://github.com/RcDevLabs/WooCommerce-Correios-International/
+Description: International shipping with Correios from Brazil for WooCommerce
 Version: 1.0.0
-Author: RCDev & Coletivo Selo
+Author: RCDevLabs
 Author URI: http://rcdevlabs.github.io
 */
 
