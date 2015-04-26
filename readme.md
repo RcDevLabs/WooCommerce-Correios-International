@@ -19,6 +19,10 @@ as a shipping method for WooCommerce
 
 - Tracking Integration
 
+## Wanna Help
+
+Check the [Milestones](https://github.com/RcDevLabs/WooCommerce-Correios-International/milestones)
+
 ## Dependencies
 
 The plugin itself has no dependencies, but it obviously won't work without WooCommerce.
