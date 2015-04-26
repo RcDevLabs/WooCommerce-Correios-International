@@ -7,6 +7,9 @@ as a shipping method for WooCommerce
 
 ** Este plugin está em desenvolvimento e não deve ser usado em produção (ainda) **
 
+*Please note that this plugin is not build nor mantained by Correios. This only use their webservice*
+
+
 ### How To Use:
 
 - Download the files and unzip'em to `wp-content/plugins`
