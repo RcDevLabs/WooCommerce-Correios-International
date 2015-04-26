@@ -13,11 +13,7 @@ as a shipping method for WooCommerce
 
 ### ToDos
 
-- Error handle
-
-- Log System
-
-- Tracking Integration
+Check the [Milestones](https://github.com/RcDevLabs/WooCommerce-Correios-International/milestones)
 
 ## Wanna Help
 
